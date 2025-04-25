@@ -1,5 +1,7 @@
 # Paralel programming with Python. Image editing
 
+Clone the project and mkdir /input_images and /output_images, in the root
+
 To generate mock images and edit, you need to have installed the following packages (and check python version)
 
 ```python
